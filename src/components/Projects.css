@@ -1,0 +1,39 @@
+/* Projects.css */
+
+.project-section h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.horizontal-scroll-container {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 20px 0;  /* Optional: Add some padding to the container */
+  margin-bottom: 20%;
+}
+
+.horizontal-scroll-content {
+  display: center;
+  white-space: nowrap;
+}
+
+.scroll-item {
+  display: inline-block;
+  width: 30%; 
+  height: 200px;
+  margin-right: 50px;  /* Add some space between items */
+  background-color: #F8F7F2;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.scroll-item:hover {
+  cursor: pointer;
+  box-shadow: 0px 3px 7px .3px #e8e8e8;
+}
+
+

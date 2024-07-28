@@ -1,0 +1,10 @@
+/* Homeend.css */
+
+.homeend-section {
+  display: flex;
+  height: 65vh;
+  background-image: url('/Users/nadiashovkovy/Desktop/nadia-personal-website/src/assets/images/homeend.png');
+  position: wrapper;
+  background-size: cover;
+  background-position: center;
+}

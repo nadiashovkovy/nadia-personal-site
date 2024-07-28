@@ -1,0 +1,46 @@
+body {
+  font-family: Optima, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #FFB9AC;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 17%;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+main {
+  padding: 15%;
+}
+
+section {
+  margin: 0;
+}
+
+footer {
+  background-color: #FFB9AC;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+

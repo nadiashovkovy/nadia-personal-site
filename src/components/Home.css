@@ -1,0 +1,63 @@
+/* Home.css */
+
+.home-section {
+  display: flex;
+  align-items: center;
+  justify-content: safe left;
+  height: 65vh;
+  background-image: url('/Users/nadiashovkovy/Desktop/nadia-personal-website/src/assets/images/home1.png');
+  position: wrapper;
+  background-size: cover;
+  background-position: center;
+  color: #2625C3;
+  text-align: left;
+}
+
+.home-content {
+  /*max-width: 600px;*/
+  height: 50vh;
+  min-width: 50vh;
+  padding-left: 20%;
+}
+
+.home-content h2 {
+  background-color: #F9FFCF;
+  padding: 10px 20px;
+  border-radius: 1.5vh;
+  width: 100px;
+}
+
+.home-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.home-content p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  padding: 15px 25px;
+  font-size: 1.5rem;
+  font-family: Optima, sans-serif;
+  color: #2625C3;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #fff;
+  border-radius: 1.5vh;
+  margin-bottom: 2rem;
+}
+
+.cta-button:hover {
+  font-weight: bold;
+}
+
+.profile-image {
+  width: 50vh;
+  height: 50vh;
+  padding-right: 15%;
+}
+
+
+
