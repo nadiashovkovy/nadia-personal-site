@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import profileImage from '/Users/nadiashovkovy/Desktop/nadia-personal-site/src/assets/images/profile.png';  // Adjust the path as needed
+import profileImage from url('/Users/nadiashovkovy/Desktop/nadia-personal-website/src/assets/images/home1.png');  // Adjust the path as needed
 
 const Home = () => {
   return (
