@@ -12,6 +12,7 @@ const Home = () => {
         <p>This is a place where I share my tech projects, my passions, and more.</p>
         <button className="cta-button">Learn more about me...</button>
       </div>
+      <img src={`${process.env.PUBLIC_URL}/images/profile.png`} alt="Profile" />
     </section>
   );
 }
