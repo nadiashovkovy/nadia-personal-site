@@ -12,6 +12,7 @@ const Home = () => {
         <p>This is a place where I share my tech projects, my passions, and more.</p>
         <button className="cta-button">Learn more about me...</button>
       </div>
+      <img src="https://raw.githubusercontent.com/nadiashovkovy/nadia-personal-site/main/src/assets/images/profile.png" alt="Nadia Shovkovy" className="profile-image" />
     </section>
   );
 }

@@ -4,6 +4,7 @@
   display: flex;
   height: 65vh;
   /*background-image: url('/Users/nadiashovkovy/Desktop/nadia-personal-site/src/components/assets/images/homeend.png');*/
+  background-image: url('https://raw.githubusercontent.com/nadiashovkovy/nadia-personal-site/main/src/assets/images/homeend.png');
   position: wrapper;
   background-size: cover;
   background-position: center;
