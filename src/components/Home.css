@@ -5,7 +5,6 @@
   align-items: center;
   justify-content: safe left;
   height: 65vh;
-  /*background-image: url('/Users/nadiashovkovy/Desktop/nadia-personal-site/src/components/assets/images/home1.png');*/
   background-image: url('https://raw.githubusercontent.com/nadiashovkovy/nadia-personal-site/main/src/assets/images/home1.png');
   position: wrapper;
   background-size: cover;
@@ -15,10 +14,10 @@
 }
 
 .home-content {
-  /*max-width: 600px;*/
   height: 50vh;
   min-width: 50vh;
   padding-left: 20%;
+  padding-top: 7%;
 }
 
 .home-content h2 {
@@ -40,14 +39,14 @@
 
 .cta-button {
   padding: 15px 25px;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-family: Optima, sans-serif;
   color: #2625C3;
   cursor: pointer;
   text-decoration: none;
   background-color: #fff;
   border-radius: 1.5vh;
-  margin-bottom: 2rem;
+  margin-right: 10px;
 }
 
 .cta-button:hover {
@@ -55,9 +54,10 @@
 }
 
 .profile-image {
-  width: 50vh;
-  height: 50vh;
+  width: 45vh;
+  height: 45vh;
   padding-right: 15%;
+  padding-top: 5%;
 }
 
 

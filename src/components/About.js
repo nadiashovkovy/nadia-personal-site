@@ -12,6 +12,18 @@ const About = () => {
           </p>
         </div>
       </div>
+
+      <div className="tech-skills">
+        <h1>My Technical Skills</h1>
+        <div className="skill-details">
+          <p>
+            Languages: Java (Intermediate), Python (Intermediate), Javascript (Intermediate), Swift/SwiftUI (Advanced).
+          </p>
+          <p>
+            Tools: PyCharm, Xcode, PyTorch, Webflow, Figma.
+          </p> 
+        </div>
+      </div>
     </section>
   );
 }
