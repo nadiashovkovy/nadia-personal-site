@@ -28,7 +28,7 @@ const Projects = () => {
             Kids In Tech
           </h3>
           <p>
-            Kids In Tech Arizona is a volunteering organization dedicated to teaching engineering and coding at elementary schools. As a program founder, I designed and led workshops on block-coding, mBot, and Girls in Tech at Ryan Elementary.
+            Kids In Tech Arizona is a volunteering organization dedicated to teaching engineering and coding at elementary schools. As a program founder, I designed and led workshops on block-coding, mBots, and Girls in Tech at Ryan Elementary.
             I also helped to establish and coach Weinberg Elementary’s First Lego League Explore team.
           </p>
         </div>
